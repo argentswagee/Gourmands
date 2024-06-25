@@ -1,0 +1,78 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #F2CCC3;
+}
+
+.logo {
+    height: auto;
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+
+.txt {
+    font-size: 215%;
+    font-family: "Luckiest Guy";
+    position: relative;
+    left: 0%;
+    text-align: center;
+}
+
+.gen {
+    position: relative;
+    left: 30%;
+    top: 35px;
+    padding: 5%;
+    width: 150px;
+    border-radius: 20px;
+    font-family: "Luckiest Guy";
+    background-color: #FFE6E8;
+    font-size: 150%;
+    border-width: 0px;
+    box-shadow: 1px 1px 20px #E78F8E;
+}
+
+.mdj {
+    background-color: #E78F8E;
+    position: relative;
+    margin-top: 120px;
+    height: 400px;
+    width: 340px;
+    left: 5%;
+    border-radius: 30px;
+    padding: 20px;
+    overflow: auto;
+    font-family: "Luckiest Guy";
+    overflow-x: hidden;
+}
+
+.local {
+    position: relative;
+    height: auto;
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px #CEFDFF;
+    top: 13px;
+}
+
+.mt {
+    font-size: 115%;
+    left: 130px;
+    position: relative;
+    z-index: 5;
+    top: -65px;
+}
+
+.ligne{
+    position: relative;
+    height: auto;
+    width: 100px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px #d8feff97;
+    top: 13px;
+}

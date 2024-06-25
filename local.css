@@ -1,0 +1,78 @@
+* {
+    margin: 0%;
+    padding: 0%;    
+}
+
+body {
+    background-color: #FE938C;
+}
+
+.j1 {
+    font-size: 150%;
+    font-family: "Luckiest Guy";
+    position: relative;
+    text-align: center;
+    top: 200px;
+    z-index: 50;
+}
+
+.j1b {
+    position: relative;
+    left: 30%;
+    top: 225px;
+    padding: 5%;
+    width: 150px;
+    border-radius: 20px;
+    font-family: 'Luckiest Guy';
+    background-color: #FE938C;
+    font-size: 125%;
+    border-width: 0px;
+    box-shadow: 1px 1px 20px #FE938C;
+    z-index: 50;
+}
+
+.j2 {
+    font-size: 150%;
+    font-family: "Luckiest Guy";
+    position: relative;
+    text-align: center;
+    top: 50px;
+    transform: rotate(180deg);
+    z-index: 50;
+}
+
+.j2b {
+    position: relative;
+    left: 30%;
+    top: 25px;
+    padding: 5%;
+    width: 150px;
+    border-radius: 20px;
+    font-family: 'Luckiest Guy';
+    background-color: #EDAF97;
+    font-size: 125%;
+    border-width: 0px;
+    box-shadow: 1px 1px 20px #EDAF97;
+    transform: rotate(180deg);
+    z-index: 50;
+}
+
+.fondj1 {
+    background-color: #EDAF97;
+    margin-top: 70%;
+    z-index: 1;
+    height: 460px;
+}
+
+.pointj1 {
+    font-family: Luckiest Guy;
+    font-size: 200%;
+}
+
+.pointj2 {
+    font-family: Luckiest Guy;
+    font-size: 200%;
+    transform: rotate(180deg);
+    position: relative;
+    top: 400px;
+}
